@@ -1,4 +1,4 @@
-📊 Bank Loan Analysis Project (Python, Jupyter Notebook)
+🏦💸⭐Bank Loan Analysis Project (Python, Jupyter Notebook)
 
 🔍 This project dives into financial loan data analysis using Python in Jupyter Notebook, turning a dataset of 24 columns and 38,577 rows into meaningful insights on loan applications, trends, and patterns. With Pandas, NumPy, Matplotlib, Seaborn, and Plotly, I explored key factors like home ownership, employment length, and loan purposes to support banking decisions
 
